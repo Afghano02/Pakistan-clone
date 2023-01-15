@@ -1,0 +1,2 @@
+# Pakistan-clone
+AFGHANO
